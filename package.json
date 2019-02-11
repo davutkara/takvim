@@ -1,0 +1,26 @@
+{
+  "name": "takvim",
+  "version": "0.0.0",
+  "description": "Takvim is an TUI for todo.txt with a calender feature.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/davutkara/takvim.git"
+  },
+  "keywords": [
+    "takvim",
+    "todo.txt",
+    "terminal",
+    "console",
+    "todo"
+  ],
+  "author": "Davut KARA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davutkara/takvim/issues"
+  },
+  "homepage": "https://github.com/davutkara/takvim#readme"
+}
